@@ -4,4 +4,4 @@ add
 
 second amend commit
 
-message from master branch
+message from master test branch
